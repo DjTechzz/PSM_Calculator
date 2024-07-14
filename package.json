@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "csv-parser": "^3.0.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/yargs": "^17.0.32"
+  }
+}
